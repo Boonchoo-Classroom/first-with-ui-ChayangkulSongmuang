@@ -11,7 +11,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome to Our App"
+        android:text="Welcome to KFC"
         android:textSize="32sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -31,7 +31,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView"
         app:layout_constraintVertical_bias="0.069"
-        app:srcCompat="@drawable/i__android" />
+        app:srcCompat="@drawable/aw_new_kfc_logo_2019_1024x724" />
 
     <Button
         android:id="@+id/loginBtn"
